@@ -1,1 +1,2 @@
-Detects when two rectangles are touching and bounces them off each other.
+# p5.play-boilerplate
+Boiler plate for p5.play
